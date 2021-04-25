@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "afyacy-d9ae4": {
+      "hosting": {
+        "httpclient-example": [
+          "afyacy-d9ae4"
+        ]
+      }
+    }
+  }
+}
